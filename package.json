@@ -15,6 +15,9 @@
     "Buffer",
     "base64"
   ],
+  "scripts": {
+    "build": "node build.js"
+  },
   "author": "junmer",
   "license": "ISC",
   "bugs": {
